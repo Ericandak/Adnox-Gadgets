@@ -1,0 +1,10 @@
+https://adnoxgadgets.000webhostapp.com/mini/index.php
+3r1ck_jam35@3Ej
+
+A train covers a distance of 720 km in 8 hours. If the speed is increased by 10 km/h, how much time will it take to cover the same distance?
+Answer: The initial speed of the train is distance divided by time, which is 720/8 = 90 km/h. If the speed is increased by 10 km/h, the new speed is 100 km/h. Time taken at the new speed is distance/speed = 720/100 = 7.2 hours.
+
+A train takes 20 seconds to pass a man standing on a platform. If the length of the train is 100 meters, what is the speed of the train?
+Answer: Speed = distance/time. The distance covered by the train is 100 meters. The time taken is 20 seconds. So the speed of the train is 100/20 = 5 meters/second or 18 km/h.
+
+indexing,sanitying
